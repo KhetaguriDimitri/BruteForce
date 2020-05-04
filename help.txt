@@ -1,5 +1,5 @@
 help
-pleh
+help.info
 helping
 helps
 helped
