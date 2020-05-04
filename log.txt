@@ -1,5 +1,5 @@
 log
-qlog
+.zip
 blog
 _log
 logo
