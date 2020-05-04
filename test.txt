@@ -1,5 +1,8 @@
 teste
 .test
+test.zip
+testing.zip
+test.rar
 _test
 test2
 tests
