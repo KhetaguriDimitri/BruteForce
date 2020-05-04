@@ -1,6 +1,6 @@
 install
-uninstall
-installer
+install.zip
+installer.zip
 install.sh
 zc_install
 install.rb
