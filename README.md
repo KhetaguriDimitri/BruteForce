@@ -3,4 +3,4 @@ Wordlist for Social Networks, Systems, Networks, WPA, PWN, Crypters, Mails
 
 Hashed & Leaked Passwords
 
-Generated for Bruteforce Attack
+Generated List © 2020
