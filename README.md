@@ -1,5 +1,5 @@
 # BruteForce WordLists
-Wordlist for Social Networks, Systems, Networks, WPA, PWN, Crypters, Mails
+Wordlist for Social Networks, Systems, Networks, WPA, PWN, Crypters, Mails, Websites, Engines, Widgets, All in One
 
 Hashed & Leaked Passwords
 
