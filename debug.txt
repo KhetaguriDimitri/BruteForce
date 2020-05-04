@@ -1,4 +1,6 @@
 debug
+debugs
+debugger
 debugging
 debug.c
 debug.h
