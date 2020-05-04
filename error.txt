@@ -1,6 +1,6 @@
 error
 error403
-errorpage
+error.log
 error.h
 error404
 error.txt
